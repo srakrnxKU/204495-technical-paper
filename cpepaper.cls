@@ -1,0 +1,1 @@
+../projectclsas/cpepaper.cls
